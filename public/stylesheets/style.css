@@ -6,3 +6,12 @@ body {
 a {
   color: #00B7FF;
 }
+
+.filter-container {
+  display: flex;
+  flex-direction: row;
+}
+
+.filter-item {
+  margin: 12px;
+}
